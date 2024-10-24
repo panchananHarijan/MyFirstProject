@@ -25,6 +25,7 @@ public class BooleanWeekList {
                 break;
             }
         }
+
         if(trueIndex!=-1){
             System.out.println("The index of the first true value is: " + trueIndex);
         }
